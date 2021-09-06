@@ -28,6 +28,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/kaique902/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+ 
+ ### SO
 
 <div>
   <a href="https://github.com/Kaique902"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
