@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 <div>
- <h2 style="color: #9745f5" > Salutation! You are a robot? </h2>
+ <h2 style="color: #9745f5;" > Salutation! You are a robot? </h2>
  <div>
   <a href="https://github.com/Kaique902">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique902&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
