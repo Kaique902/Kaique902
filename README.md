@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div>
 # Salutation! You are a robot?
  <div>
   <a href="https://github.com/Kaique902">
@@ -47,6 +47,5 @@
  
 </div>
  
-<div>
-![Snake animation](https://github.com/kaique902/kaique902/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/kaique902/kaique902/blob/output/github-contribution-grid-snake.svg)
 </div>
