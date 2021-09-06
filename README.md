@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 <div>
-### Salutation! You are a robot?
+ <span> ### Salutation! You are a robot? </span>
  <div>
   <a href="https://github.com/Kaique902">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique902&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -42,7 +42,7 @@
 </div>
 
  ### Tools
- ![#9745f5] TESTE `#9745f5`
+  
 <div>
  
 </div>
