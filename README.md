@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 
-# Saudações! Você é um robô?
+# Salutation! You are a robot?
  <div>
   <a href="https://github.com/Kaique902">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique902&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -27,9 +27,10 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/kaique902/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Kaique902" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
  
- ### SO
+ ### Operating System
 
 <div>
   <a href="https://github.com/Kaique902"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
@@ -38,7 +39,14 @@
   <a href="https://github.com/Kaique902"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"></a>
   <a href="https://github.com/Kaique902"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   <a href="https://github.com/Kaique902"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
+</div>
+
+ ### Tools
  
+<div>
+ 
+</div>
+ 
+<div>
 ![Snake animation](https://github.com/kaique902/kaique902/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
