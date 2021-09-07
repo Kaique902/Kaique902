@@ -25,7 +25,7 @@
   
   ### Social
  
-<div> 
+<div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/kaique902/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="Kaique902@pm.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
  <a href="https://kaique902.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
@@ -34,7 +34,7 @@
  
  ### Operating System
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/Kaique902"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
   <a href="https://github.com/Kaique902"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"></a>
   <a href="https://github.com/Kaique902"><img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white"></a>
@@ -45,9 +45,9 @@
 
  ### Tools
   
-<div>
+<div style="display: inline_block">
  
-</div>
+</div style="display: inline_block">
   
  ### TryHackMe
 <div>
