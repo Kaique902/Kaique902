@@ -8,12 +8,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Salutation! You are a robot?
-<div class="color-text-success">This text is green, <a href="#" class="text-inherit">including the link</a></div>
- <div style="display: inline_block">
+<div>
+### Salutation! You are a robot?
+ <div>
+  <div style="color: green">TESTE</div>
   <a href="https://github.com/Kaique902">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaique902&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique902&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique902&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique902&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,7 +28,7 @@
  
 <div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/kaique902/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="Kaique902@pm.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+ <a href="mailto:Kaique902@pm.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
  <a href="https://kaique902.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href="https://github.com/Kaique902" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
@@ -46,12 +47,12 @@
 ### Tools
   
 <div style="display: inline_block">
- 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Kaique902.png" alt="TryHackMe">
 </div style="display: inline_block">
   
 ### TryHackMe
 <div style="display: inline_block">
- <script src="https://www.hackthebox.eu/badge/4373"></script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Kaique902.png" alt="TryHackMe">
 </div>
 
 ### HackTheBox
