@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 ```diff
-@@ ## Salutation! You are a robot?@@
+## @@ Salutation! You are a robot?@@
 ```
 <div>
  <div style="display: inline_block">
