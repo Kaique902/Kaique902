@@ -8,10 +8,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```diff
-## @@ Salutation! You are a robot?@@
-```
-<div>
+## Salutation! You are a robot?
+<div class="color-text-primary mb-2">
+ teste
  <div style="display: inline_block">
   <a href="https://github.com/Kaique902">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kaique902&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
