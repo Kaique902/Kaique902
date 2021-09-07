@@ -51,7 +51,7 @@
   
  ### TryHackMe
 <div>
- <a href="https://tryhackme.com/p/Kaique902"><img src="https://tryhackme-badges.s3.amazonaws.com/Kaique902.png" alt="TryHackMe"></a>
+ <a href="https://tryhackme.com/p/Kaique902"><img src="https://tryhackme.com/Kaique902/badges/ohsint" alt="TryHackMe"></a>
 </div>
  
  ![Snake animation](https://github.com/kaique902/kaique902/blob/output/github-contribution-grid-snake.svg)
