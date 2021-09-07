@@ -51,7 +51,7 @@
   
  ### TryHackMe
 <div>
-
+ <script src="https://www.hackthebox.eu/badge/4373"></script>
 </div>
 
  ![Snake animation](https://github.com/kaique902/kaique902/blob/output/github-contribution-grid-snake.svg)
