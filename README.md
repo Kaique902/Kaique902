@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 -->
 <div>
- <h2 style="color: #9745f5;" > Salutation! You are a robot? </h2>
+### Salutation! You are a robot?
  <div>
   <a href="https://github.com/Kaique902">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaique902&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,7 @@
  
 </div>
   
-  ### Social
+### Social
  
 <div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/kaique902/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -32,7 +32,7 @@
   <a href="https://github.com/Kaique902" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
  
- ### Operating System
+### Operating System
 
 <div style="display: inline_block">
   <a href="https://github.com/Kaique902"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
@@ -43,16 +43,22 @@
   <a href="https://github.com/Kaique902"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
 </div>
 
- ### Tools
+### Tools
   
 <div style="display: inline_block">
  
 </div style="display: inline_block">
   
- ### TryHackMe
-<div>
+### TryHackMe
+<div style="display: inline_block">
  <script src="https://www.hackthebox.eu/badge/4373"></script>
 </div>
+
+### HackTheBox
+<div style="display: inline_block">
+ <img src="http://www.hackthebox.eu/badge/image/4373" alt="Hack The Box">
+</div>
+
 
  ![Snake animation](https://github.com/kaique902/kaique902/blob/output/github-contribution-grid-snake.svg)
 </div>
