@@ -46,19 +46,8 @@
 ### Tools
   
 <div style="display: inline_block">
- <img src="https://tryhackme-badges.s3.amazonaws.com/Kaique902.png" alt="TryHackMe">
+ 
 </div style="display: inline_block">
-  
-### TryHackMe
-<div style="display: inline_block">
- <img src="https://tryhackme-badges.s3.amazonaws.com/Kaique902.png" alt="TryHackMe">
-</div>
-
-### HackTheBox
-<div style="display: inline_block">
- <img src="http://www.hackthebox.eu/badge/image/4373" alt="Hack The Box">
-</div>
-
 
  ![Snake animation](https://github.com/kaique902/kaique902/blob/output/github-contribution-grid-snake.svg)
 </div>
