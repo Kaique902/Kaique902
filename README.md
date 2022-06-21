@@ -42,8 +42,6 @@
   <a href="https://github.com/Kaique902"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   <a href="https://github.com/Kaique902"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
 </div>
-
-### Tools
   
 <div style="display: inline_block">
  
