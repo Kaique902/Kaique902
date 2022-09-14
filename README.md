@@ -48,4 +48,6 @@
 </div style="display: inline_block">
 
  ![Snake animation](https://github.com/kaique902/kaique902/blob/output/github-contribution-grid-snake.svg)
+ 
+ <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kaique902" data-color="#BD5FFF" data-emoji="☕"  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 </div>
