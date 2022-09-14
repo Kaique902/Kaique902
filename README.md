@@ -49,5 +49,5 @@
 
  ![Snake animation](https://github.com/kaique902/kaique902/blob/output/github-contribution-grid-snake.svg)
  
- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kaique902" data-color="#BD5FFF" data-emoji="☕"  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+ <img src="https://uc80e5ba3058c2d15b2a77972a8b.previews.dropboxusercontent.com/p/thumb/ABqfXvj168prq2-g5N0RCb7TfaRIdVIEeNpODM9wVzNe1aa86Z3ly0QRTyCZ8JfVVao3yigtnk72n66o4pWW36W3kliUYaXeP6oqk2LWzJJoyFYjM3x-cPbdaTOb3jUku2FPXax4mHroNV3qwsO-O2b14fg2AVy65ebvK-TeW2FDyoapCPrs9zmPLhqNKtG3cTijbTIGJyriNaseWFsn8B4ARWiFoePNZHW4yO3qHC9nQBLsSjqBktLNsiDHKoQ4E7rJtzhWRwZ1par3V6XKoTFnrCO3yBIVlc1fJhlFsrGjtjqWAlN7f1xrhAwEkBKMN26EdVekFSpWXnEZ2Lgq8wbdqXsoyxgGvg0JYwTpsTg1YhC6KLOYF5-Y0zbjwaD_NMk/p.png" targe="_blank">
 </div>
